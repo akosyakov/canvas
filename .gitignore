@@ -10,4 +10,3 @@ Thumbs.db
 .DS_Store
 phpunit.xml
 .phpunit.result.cache
-*.code-workspace
